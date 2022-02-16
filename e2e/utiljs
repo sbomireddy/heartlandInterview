@@ -1,0 +1,8 @@
+getCurrentDate = () => {
+    const myDate = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric'});
+    console.log('Today Date is: ', myDate);
+    return myDate;
+
+}
+
+module.exports = getCurrentDate();

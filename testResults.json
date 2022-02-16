@@ -1,0 +1,74 @@
+[
+  {
+    "description": "Heartland Point of Sale QA Candidate Problem Set TS_0001-Access Automation practice page",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2311
+  },
+  {
+    "description": "Heartland Point of Sale QA Candidate Problem Set TS_0002- Search for a product",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3173
+  },
+  {
+    "description": "Heartland Point of Sale QA Candidate Problem Set TS_0003- Click on Search",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 6541
+  },
+  {
+    "description": "Heartland Point of Sale QA Candidate Problem Set TS_0004- Select a product",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 4270
+  },
+  {
+    "description": "Heartland Point of Sale QA Candidate Problem Set TS_0005- Select Quantity",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3066
+  },
+  {
+    "description": "Heartland Point of Sale QA Candidate Problem Set TS_0006- Select Size",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3085
+  },
+  {
+    "description": "Heartland Point of Sale QA Candidate Problem Set TS_0006- Select color",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3078
+  },
+  {
+    "description": "Heartland Point of Sale QA Candidate Problem Set TS_0007- Add to Cart",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 4064
+  }
+]
