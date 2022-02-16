@@ -6,7 +6,7 @@
         "passed": true
       }
     ],
-    "duration": 2311
+    "duration": 5492
   },
   {
     "description": "Heartland Point of Sale QA Candidate Problem Set TS_0002- Search for a product",
@@ -15,7 +15,7 @@
         "passed": true
       }
     ],
-    "duration": 3173
+    "duration": 3070
   },
   {
     "description": "Heartland Point of Sale QA Candidate Problem Set TS_0003- Click on Search",
@@ -24,7 +24,7 @@
         "passed": true
       }
     ],
-    "duration": 6541
+    "duration": 7251
   },
   {
     "description": "Heartland Point of Sale QA Candidate Problem Set TS_0004- Select a product",
@@ -33,7 +33,7 @@
         "passed": true
       }
     ],
-    "duration": 4270
+    "duration": 5016
   },
   {
     "description": "Heartland Point of Sale QA Candidate Problem Set TS_0005- Select Quantity",
@@ -42,7 +42,7 @@
         "passed": true
       }
     ],
-    "duration": 3066
+    "duration": 3051
   },
   {
     "description": "Heartland Point of Sale QA Candidate Problem Set TS_0006- Select Size",
@@ -51,7 +51,7 @@
         "passed": true
       }
     ],
-    "duration": 3085
+    "duration": 3082
   },
   {
     "description": "Heartland Point of Sale QA Candidate Problem Set TS_0006- Select color",
@@ -60,7 +60,7 @@
         "passed": true
       }
     ],
-    "duration": 3078
+    "duration": 3059
   },
   {
     "description": "Heartland Point of Sale QA Candidate Problem Set TS_0007- Add to Cart",
@@ -69,6 +69,6 @@
         "passed": true
       }
     ],
-    "duration": 4064
+    "duration": 4057
   }
 ]

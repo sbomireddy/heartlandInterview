@@ -1,4 +1,5 @@
 
+
 exports.config = {
   allScriptsTimeout: 200000,
   
@@ -24,5 +25,7 @@ exports.config = {
   },
   onPrepare() {
     browser.driver.manage().window().maximize();
+  
+    
   },
 };
